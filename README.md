@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @Amado-legend
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in  La ciencia de datos y la Inteligencia artificial.
+- 🌱 I’m currently learning  Pytorch y NLP con Tensorflow.
+- 💞️ I’m looking to collaborate on cualquier empresa que solicite labor de un científico de datos.
+- 
 - 📫 How to reach me ...
 
 <!---
 Amado-legend/Amado-legend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Me interesa y me fascina el mundo de la Inteligencia Artficial.
-Actualmente estoy aprendiendo la libreria de Pytorch y procesamiento del lenguaje natural con Tensorflow.
+Llevo un poco más de un año desde que empecé aprendiendo ciencias de datos. Actualmente siempre busco estar en  continuo aprendizaje.
+
